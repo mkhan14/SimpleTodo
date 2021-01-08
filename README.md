@@ -38,7 +38,7 @@ When I was testing the app, I noticed that I wasn't able to input any text into 
 
 ## License
 
-    Copyright [2020] [Mahin Khan]
+    Copyright [2021] [Mahin Khan]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
