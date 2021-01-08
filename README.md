@@ -32,7 +32,8 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+Challenges encountered while building the app:
+When I was testing the app, I noticed that I wasn't able to input any text into the textbox at the first screen. It was as if it was disabled. After looking into the "activity_main.xml" file, I found out the problem was that the layout height of the Recycler View was set to "wrap_content" instead of "match_parent". After I made the change to "match_parent", I was able to finally input text into the textbox so that I could see my entries being displayed on the list.
 
 ## License
 
